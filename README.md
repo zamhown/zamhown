@@ -31,5 +31,4 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=visactor&repo=vchart&theme=transparent)](https://github.com/visactor/vchart)
 ![Counter](https://komarev.com/ghpvc/?username=zamhown&label=Profile%20views&color=0e75b6&style=flat)
