@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/zamhown/zamhown/blob/main/happy_cat.gif" alt="cat" style="height:80px;"/>, I'm Howard Zhang</h1>
 <h3 align="center">A multifunctional front-end data visualization developer</h3>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zamhown&theme=oldie&no-bg=true&no-frame=true" alt="zamhown" /></p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=zamhown&no-bg=true&no-frame=true" alt="zamhown" /></p>
 
 - 📈 I’m currently working on [VisActor](https://github.com/VisActor)
 
